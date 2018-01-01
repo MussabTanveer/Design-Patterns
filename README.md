@@ -1,2 +1,5 @@
-# Design-Patterns
-Design Patterns using Java
+# Design Patterns
+## Design Patterns using Java
+* Builder Pattern
+* Singleton Pattern
+* Factory Pattern
